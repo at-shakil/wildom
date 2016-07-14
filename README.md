@@ -1,4 +1,4 @@
-# Wildom
+# Wildom [Not Implemented Yet]
 
 Wildom is a ruby based wildcard domain search API. It is regular expression enabled.
 
